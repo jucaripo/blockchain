@@ -1,0 +1,11 @@
+{
+  "ignore": ["readme.md",".gitignore","box-img-lg.png","box-img-sm.png","media/","hello-blockchain.md","hello-blockchain.yml"],
+  "commands": {
+    "Compile": "truffle compile",
+    "Migrate": "truffle migrate",
+    "Test": "truffle test"
+  },
+  "hooks": {
+    "post-unpack": ""
+  }
+}
